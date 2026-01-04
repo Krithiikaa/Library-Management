@@ -1,4 +1,4 @@
-📚 Library Manager  
+#📚 Library Manager  
 *A modern, production-ready Library Management System built with MERN principles*
 
 ---
